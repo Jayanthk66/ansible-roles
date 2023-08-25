@@ -1,5 +1,0 @@
----
-- name: configure httpd service
-  hosts: all
-  roles:
-  - http-role
